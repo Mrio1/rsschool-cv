@@ -10,9 +10,9 @@ Start a career as a js-developer and in five years have the skills of a senior d
 
 ### My skills
   - Photoshop
-  - HTML basic
-  - CSS basic
-  - Git basik
+  - [HTML basic](https://www.codecademy.com/AliaksandrZhur)
+  - [CSS basic](https://www.codecademy.com/AliaksandrZhur)
+  - [Git basik](https://www.codecademy.com/AliaksandrZhur)
 
 ### Code examples
 ```javascript
